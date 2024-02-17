@@ -1,0 +1,1 @@
+搭配Looker studio下載資料，透過Google Analytics數據，整理官網使用者之人口統計變數與使用裝置習慣資料，供年度報表使用。
